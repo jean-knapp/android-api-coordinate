@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Knapp Coordinate API</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="degrees">Degrees</string>
+    <string name="hemisphere">Hemisphere</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="coordinate">Coordinate</string>
+    <string name="zone">Zone</string>
+    <string name="easting">Easting</string>
+    <string name="northing">Northing</string>
+    <string name="digraph">Digraph</string>
+    <string name="dd">DD</string>
+    <string name="dmm">DMM</string>
+    <string name="dms">DMS</string>
+    <string name="utm">UTM</string>
+    <string name="mgrs">MGRS</string>
+</resources>

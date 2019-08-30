@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Knapp Coordinate API</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="degrees">Graus</string>
+    <string name="hemisphere">Hemisfério</string>
+    <string name="minutes">Minutos</string>
+    <string name="seconds">Segundos</string>
+    <string name="coordinate">Coordenada</string>
+    <string name="zone">Zona</string>
+    <string name="easting">Af. leste</string>
+    <string name="northing">Af. norte</string>
+    <string name="digraph">Dígrafo</string>
+    <string name="dd">GD</string>
+    <string name="dmm">GMD</string>
+    <string name="dms">GMS</string>
+    <string name="utm">UTM</string>
+    <string name="mgrs">MGRS</string>
+</resources>
